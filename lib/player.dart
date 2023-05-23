@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+void main() {
+  runApp(player());
+}
+
 class player extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

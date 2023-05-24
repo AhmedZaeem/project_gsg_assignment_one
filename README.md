@@ -1,16 +1,6 @@
-# project_gsg_assignment_one
+A simple music player prototype for GSG (When clicked on the main music photo it takes you to the player with the proper controlers (The app is just a simple UI with no Functionality) 
 
-The first assignment at GSG
+[Video Demo:]
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[device-2023-05-24-223301.webm](https://github.com/AhmedZaeem/project_gsg_assignment_one/assets/91721920/ac1e1fc5-69fa-483c-ad0c-9b8f7ee03cf9)
